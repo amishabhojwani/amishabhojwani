@@ -1,4 +1,4 @@
-Hey everyone! I’m @amishabhojwani, a quantitative researcher with a background in computational biology and statistical programming. Think of me as your local your local data enthusiast and sustainability nerd.
+Hey everyone! I’m @amishabhojwani, a quantitative researcher with a background in computational biology and statistical programming.
 
 - 👀 I’m interested in the power of data to drive decision making in a business context.
 - 🌱 Constant and consistent learning are a big part of data science. I'm working on my goal of improving the use of statistical and machine learning tools I have acquired through my studies to achieve meaningful insights from data with every experience that comes my way.
